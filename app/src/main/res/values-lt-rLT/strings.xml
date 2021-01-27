@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">TiesiogJava</string>
+    <string name="name" translatable="false">Vardas</string>
+    <string name="toppings">Ingredientai</string>
+    <string name="whipped_cream">Grietinėlė</string>
+    <string name="order_summary_whipped_cream">Ar reikalinga grietinėlė? <xliff:g id="hasWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Ar reikalingas šokoladas? <xliff:g id="hasChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_name">Vardas: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_quantity">Kiekis: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">Pilna suma: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="thank_you">Ačiū!</string>
+    <string name="order_summary_email_subject">JustJava užsakymas: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order">Užsakymas</string>
+    <string name="initial_quantity_value">1</string>
+    <string name="quantity">Kiekis</string>
+    <string name="chocolate">Šokoladas</string>
+    <string name="order_summary">Užsakymo duomenys</string>
+    <string name="decrement_message">Negalite užsisakyti mažiau nei vieną puodelį kavos.</string>
+    <string name="increment_message">Negalite užsisakyti daugiau nei 100 puodelių kavos.</string>
+</resources>
