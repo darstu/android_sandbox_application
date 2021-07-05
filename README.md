@@ -1,5 +1,7 @@
 # android_sandbox_application
 
+This is a project made for Google Developer Challenge Scholarship (Android Basics Track)
+
 ## Installation
 
 1. Download the repository
